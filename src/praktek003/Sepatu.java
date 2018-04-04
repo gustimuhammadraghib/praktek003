@@ -1,11 +1,11 @@
 package praktek003;
 
 public class Sepatu {
-  String merk;
-  String warna;
-  String desain;
-  String kualitas;
-  double harga;
+  private String merk;
+  private String warna;
+  private String desain;
+  private String kualitas;
+  private double harga;
   
   void cetakInfo(){
       System.out.println("=====PRAKTEK 003=====");
