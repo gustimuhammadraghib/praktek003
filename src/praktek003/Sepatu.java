@@ -8,11 +8,12 @@ public class Sepatu {
   double harga;
   
   void cetakInfo(){
-      System.out.println("Merk \t: "+merk+"\n"+
-                "Warna         \t: "+warna+"\n"+
-                "Desain        \t: "+desain+"\n"+
-                "Kualitas      \t: "+kualitas+"\n"+
-                "Harga         \t: "+harga);
+      System.out.println("=====PRAKTEK 003=====");
+      System.out.println("Merk \t        : " +merk+"\n"+
+                "Warna         \t: " +warna+"\n"+
+                "Desain        \t: " +desain+"\n"+
+                "Kualitas      \t: " +kualitas+"\n"+
+                "Harga         \t: " +harga);
   }
   
 }
